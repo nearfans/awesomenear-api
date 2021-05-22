@@ -1,4 +1,4 @@
-# awesomenear-a## Awesome NEAR API
+## Awesome NEAR API
 
 The Awesome NEAR data can be accessed via our RESTful JSON API `https://awesomenear.com/api`.
 
@@ -15,7 +15,7 @@ Endpoint example: `https://awesomenear.com/api`
 
 Response:
 
-```json
+```
 {
   "title": "Awesome NEAR",
   "count": "135",
@@ -40,7 +40,7 @@ Endpoint example: `https://awesomenear.com/api/`
 
 Response:
 
-```json
+```
 {
     "name": "NEAR Protocol",
     "slug": "near-protocol",
@@ -70,7 +70,7 @@ Endpoint example: `https://awesomenear.com/api/categories`
 
 Response:
 
-```json
+```
 {
     "title": "Categories",
     "count": "27", // The number of all categories
@@ -92,7 +92,7 @@ Endpoint example: `https://awesomenear.com/api/categories/dapps/`
 
 Response:
 
-```json
+```
 {
     "title": "DApps",
     "count": "57", // The number of projects under the DApps category
