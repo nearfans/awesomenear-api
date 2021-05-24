@@ -25,6 +25,7 @@ Response:
       "slug": "near-protocol",
       "description": "The highly scalable, developer-friendly blockchain.",
       "link": "https://awesomenear.com/near-protocol/",
+      "logo": "http://localhost:50549/img/logo/near-wallet.jpg",
       "categories": [
         "Infrastructure"
       ]
@@ -49,18 +50,7 @@ Response:
     "logo": "https://awesomenear.com/img/logo/near-protocol.jpg",
     "categories": [
         "Infrastructure"
-    ],
-    "social": {
-        "blog": "https://near.org/blog/",
-        "discord": "https://discordapp.com/invite/gBtUFKR",
-        "facebook": "https://www.facebook.com/nearprotocol",
-        "github": "https://github.com/nearprotocol",
-        "medium": "https://medium.com/nearprotocol",
-        "telegram": "https://t.me/cryptonear",
-        "twitter": "https://twitter.com/nearprotocol",
-        "website": "https://near.org/"
-    },
-    "content": "NEAR is a decentralized application platform that is secure enough to manage high value assets like money or identity and performant enough to make them useful for everyday people, putting the power of the Open Web in their hands."
+    ]
 }
 ```
 
@@ -102,13 +92,14 @@ Response:
             "slug": "flux",
             "description": "The easiest protocol for developers launching open financial markets.",
             "link": "https://awesomenear.com/flux/",
+            "logo": "https://awesomenear.com/img/logo/flux.jpg",
             "categories": [
                 "DApps",
                 "DeFi",
                 "Oracles",
                 "AMM",
                 "OWC"
-            ],
+            ]
         },
         ...
     ]
