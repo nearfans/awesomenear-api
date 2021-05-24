@@ -37,7 +37,7 @@ Response:
 
 ### Endpoint `/api/{:slug}`
 
-Endpoint example: `https://awesomenear.com/api/`
+Endpoint example: `https://awesomenear.com/api/near-protocol`
 
 Response:
 
