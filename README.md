@@ -23,7 +23,6 @@ Response:
     {
       "title": "NEAR Protocol",
       "slug": "near-protocol",
-      "description": "The highly scalable, developer-friendly blockchain.",
       "link": "https://awesomenear.com/near-protocol/",
       "logo": "https://awesomenear.com/img/logo/near-wallet.jpg",
       "categories": [
@@ -45,7 +44,6 @@ Response:
 {
     "name": "NEAR Protocol",
     "slug": "near-protocol",
-    "description": "The highly scalable, developer-friendly blockchain.",
     "permalink": "https://awesomenear.com/near-protocol/",
     "logo": "https://awesomenear.com/img/logo/near-protocol.jpg",
     "categories": [
@@ -90,7 +88,6 @@ Response:
         {
             "title": "Flux",
             "slug": "flux",
-            "description": "The easiest protocol for developers launching open financial markets.",
             "link": "https://awesomenear.com/flux/",
             "logo": "https://awesomenear.com/img/logo/flux.jpg",
             "categories": [
