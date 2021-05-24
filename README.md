@@ -25,7 +25,7 @@ Response:
       "slug": "near-protocol",
       "description": "The highly scalable, developer-friendly blockchain.",
       "link": "https://awesomenear.com/near-protocol/",
-      "logo": "http://localhost:50549/img/logo/near-wallet.jpg",
+      "logo": "https://awesomenear.com/img/logo/near-wallet.jpg",
       "categories": [
         "Infrastructure"
       ]
